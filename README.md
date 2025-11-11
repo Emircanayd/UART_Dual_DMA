@@ -1,4 +1,4 @@
-UART single board RX-TX.
+UART dual board RX-TX.
 
 TX:
 USART 2, asenkron, NVIC settings-gloabal interrupt enabled.
